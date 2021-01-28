@@ -1,2 +1,2 @@
-#My First PythonGUI
+# My First PythonGUI
 Only a simple project.
